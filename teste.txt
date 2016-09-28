@@ -1,5 +1,3 @@
  Teste minicurso git 2016
  
- exemplo fetch
-
-mais uma mudança
+estamos no branch testing!
